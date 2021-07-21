@@ -16,4 +16,4 @@
 ### to be done
   * Dockerize this
   * Send/Receive messages from an external service via a webhook 
-  * Authorization/ Authentication
+  * Authorization/Authentication
